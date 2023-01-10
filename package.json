@@ -92,7 +92,7 @@
     "axios": "^0.20.0",
     "blipp": "^4.0.1",
     "commander": "^6.1.0",
-    "convict": "^6.0.0",
+    "convict": "^6.2.4",
     "javascript-state-machine": "^3.1.0",
     "openapi-backend": "^3.6.3",
     "path": "^0.12.7",
